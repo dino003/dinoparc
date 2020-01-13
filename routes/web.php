@@ -23,6 +23,7 @@ Route::domain('localhost')->group(function () {
      Route::get('/', function () {
          return view('welcome');
      });
+     //INK-LMN-16765-848
 
 
      Route::get('/register', 'Auth\RegisterController@showRegistrationForm')->name('register');
