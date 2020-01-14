@@ -330,7 +330,6 @@
   <script src="https://unpkg.com/react-dom@16/umd/react-dom.developpement.js" crossorigin></script>
   <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
 
-  <!-- <script type="text/javascript" src="{{URL::asset('js/register.js')}}"></script> -->
   <script type="text/javascript" src="{{URL::asset('js/showPassword.js')}}"></script>
 
   <script type="text/javascript">

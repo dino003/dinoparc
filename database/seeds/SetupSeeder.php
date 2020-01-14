@@ -80,7 +80,7 @@ class SetupSeeder extends Seeder
 
         // theme par defaut 
             $theme = new Theme;
-            $theme->navbar = "app-header header-shadow bg-primary header-text-light";
+            $theme->navbar = "app-header header-shadow bg-night-sky header-text-light";
             $theme->sidebar = "app-sidebar sidebar-shadow";
             $theme->save();
 
