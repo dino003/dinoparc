@@ -145,7 +145,7 @@ import inputStyle from '../../utils/inputStyle';
             <div className="app-main__inner">
               
                     <div className="main-card mb-3 card">
-                        <div className="card-body"><h5 className="card-title">Gestion des Entités</h5>
+                        <div className="card-body"><h5 className="card-title">Gestion des Entités Ajout</h5>
                             <form className="" onChange={this.setField} onSubmit={this.enregistrerEntite}>
                                 <div className="form-row">
                                     <div className="col-md-5">
